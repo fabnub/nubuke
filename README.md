@@ -1,2 +1,2 @@
 # nubuke
-workcode
+personalcode
